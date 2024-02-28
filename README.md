@@ -1,6 +1,6 @@
 # MSc Thesis- Arun Datta Beeravelli
 
-Naming of the Documents
+**Naming of the Documents**
 1. Load Profile: Power Profile of the General Cargo Vessel
    
 2. Stage 1 PEMFC-LIB.py: Design Optimization of PEMFC/LIB hybrid energy system
