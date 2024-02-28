@@ -1,6 +1,6 @@
 # MSc Thesis- Arun Datta Beeravelli
 
-**Naming of the Documents**
+# Naming of the Documents
 1. Load Profile: Power Profile of the General Cargo Vessel
    
 2. Stage 1 PEMFC-LIB.py: Design Optimization of PEMFC/LIB hybrid energy system
@@ -11,6 +11,7 @@
 
 5. Stage 2 DG-PEMFC-LIB: Lifetime Estimation of the fuel cell and battery components in the DG/PEMFC/LIB solution
 
+# Program
 All the code is written using Python API and solved using Gurobi Solver
 
 
